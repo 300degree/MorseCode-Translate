@@ -8,5 +8,5 @@ https://osdn.net/projects/mingw/releases/
 
 How to Compile!!
 ----------
-	gcc app -o app.exe
+	g++ app -o app.exe
 	./app.exe
